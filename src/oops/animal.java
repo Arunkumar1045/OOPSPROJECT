@@ -3,7 +3,7 @@ package oops;
 public abstract class animal {
 public abstract void animalsound();
 public void sleep() {
-	System.out.println("zzz");
+	System.out.println("zzzebra");
 }
 }
 class pig extends animal{
